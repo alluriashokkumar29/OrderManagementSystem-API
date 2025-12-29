@@ -33,3 +33,6 @@ The system ensures data privacy by isolating records per user—customers can on
 ## Testing
 * Use **Swagger UI** for quick API exploration.
 * Use **Postman** (recommended) to test the full authentication flow (Register -> Login -> Copy Token -> Access Orders).
+
+<img width="1838" height="725" alt="image" src="https://github.com/user-attachments/assets/03404640-2491-4385-9dfb-11d0d1b63d1f" />
+
